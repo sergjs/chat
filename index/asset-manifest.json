@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "//github.com/sergjs/Profile/static/css/main.e7872138.chunk.css",
+    "main.js": "//github.com/sergjs/Profile/static/js/main.d42342c3.chunk.js",
+    "main.js.map": "//github.com/sergjs/Profile/static/js/main.d42342c3.chunk.js.map",
+    "runtime-main.js": "//github.com/sergjs/Profile/static/js/runtime-main.bf913f7f.js",
+    "runtime-main.js.map": "//github.com/sergjs/Profile/static/js/runtime-main.bf913f7f.js.map",
+    "static/js/2.1fec4d6d.chunk.js": "//github.com/sergjs/Profile/static/js/2.1fec4d6d.chunk.js",
+    "static/js/2.1fec4d6d.chunk.js.map": "//github.com/sergjs/Profile/static/js/2.1fec4d6d.chunk.js.map",
+    "static/css/3.f825c8ef.chunk.css": "//github.com/sergjs/Profile/static/css/3.f825c8ef.chunk.css",
+    "static/js/3.81998b1d.chunk.js": "//github.com/sergjs/Profile/static/js/3.81998b1d.chunk.js",
+    "static/js/3.81998b1d.chunk.js.map": "//github.com/sergjs/Profile/static/js/3.81998b1d.chunk.js.map",
+    "static/css/4.41fbdfde.chunk.css": "//github.com/sergjs/Profile/static/css/4.41fbdfde.chunk.css",
+    "static/js/4.edc04e5c.chunk.js": "//github.com/sergjs/Profile/static/js/4.edc04e5c.chunk.js",
+    "static/js/4.edc04e5c.chunk.js.map": "//github.com/sergjs/Profile/static/js/4.edc04e5c.chunk.js.map",
+    "index.html": "//github.com/sergjs/Profile/index.html",
+    "static/css/3.f825c8ef.chunk.css.map": "//github.com/sergjs/Profile/static/css/3.f825c8ef.chunk.css.map",
+    "static/css/4.41fbdfde.chunk.css.map": "//github.com/sergjs/Profile/static/css/4.41fbdfde.chunk.css.map",
+    "static/css/main.e7872138.chunk.css.map": "//github.com/sergjs/Profile/static/css/main.e7872138.chunk.css.map",
+    "static/js/2.1fec4d6d.chunk.js.LICENSE.txt": "//github.com/sergjs/Profile/static/js/2.1fec4d6d.chunk.js.LICENSE.txt",
+    "static/media/homer.28c1d379.jpg": "//github.com/sergjs/Profile/static/media/homer.28c1d379.jpg",
+    "static/media/images.46fa149d.jpg": "//github.com/sergjs/Profile/static/media/images.46fa149d.jpg",
+    "static/media/loading.gif": "//github.com/sergjs/Profile/static/media/loading.c7d9f081.gif",
+    "static/media/working.1cf8d757.png": "//github.com/sergjs/Profile/static/media/working.1cf8d757.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf913f7f.js",
+    "static/js/2.1fec4d6d.chunk.js",
+    "static/css/main.e7872138.chunk.css",
+    "static/js/main.d42342c3.chunk.js"
+  ]
+}
