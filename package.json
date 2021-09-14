@@ -2,7 +2,7 @@
   "name": "react-1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://https://github.com/sergjs/demo-sam",
+  "homepage": "https://sergjs.github.io/demo-sam",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
