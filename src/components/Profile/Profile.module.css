@@ -1,0 +1,15 @@
+.content {
+    grid-area: c;
+    background-color: brown;
+  }
+  .content img {
+    max-width: 800px;
+  }
+  .item {
+    size: 160px;
+    color: green;
+
+  }
+  .posts {
+    margin: 15px;
+  }

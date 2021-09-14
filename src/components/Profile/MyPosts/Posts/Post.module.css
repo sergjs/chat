@@ -1,0 +1,17 @@
+  .item {
+    color: rgb(128, 0, 53);
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+  }
+  .item img {
+    width: 60px;
+    border-radius: 35px;
+  }
+  .post_text {
+    color: white;
+    margin: 10px 10px 0 10px;
+  }
+  .like_buuttom {
+    width: 70px;
+  }

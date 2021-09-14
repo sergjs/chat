@@ -1,0 +1,9 @@
+.form_control textarea {
+    border: solid red 2px;
+}
+.some_error {
+    color: red;
+}
+.form_control input {
+    border: solid red 2px;
+}

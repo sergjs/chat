@@ -1,0 +1,18 @@
+.header{
+    grid-area: h;
+    background-color: green;
+  }
+  .header img {
+    width: 30px;
+  }
+  .login {
+    position: absolute;
+    right: 50px;
+    top: 10px;
+  }
+  .login a {
+    color: blanchedalmond;
+  }
+.login a:hover {
+    color: blueviolet;
+  }

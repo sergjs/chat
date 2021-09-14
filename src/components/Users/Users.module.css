@@ -1,0 +1,57 @@
+.foto {
+    width: 80px;
+}
+.container {
+    display: flex;
+    margin: 15px;
+}
+.block_rigth {
+    margin: 0 0 0 20px;
+    border: solid 2px black;
+    border-radius: 10px;
+    display: flex;
+    width: 380px;
+    position: relative;
+}
+.fullname {
+    left: 0;
+}
+.status {
+    position: absolute;
+    bottom: 0px;
+}
+.location {
+    position: absolute;
+    right: 0px;
+}
+.location_country {
+    position: absolute;
+    top: 35px;
+    right: 0px;
+}
+.on_position {
+    font-weight: 900;
+    margin-right: 5px;
+    cursor: pointer;
+}  
+.passiv {
+    margin-right: 5px;
+    cursor: pointer;
+}     
+.image {
+    width: 15px;
+}
+.leftRigthButton {
+    width: 50px;
+    height: 10px;
+    border: solid 1px black;
+}
+.Paginator{
+    display: flex;
+}
+.button {
+    margin: 0 10px;
+}
+HTML * button {
+    margin:  0 15px;
+}
