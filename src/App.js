@@ -50,7 +50,7 @@ const mapStateToProps = (state) => ({
 const AppContainer = connect(mapStateToProps, { initializeApp })(App);
 
 let SamuraiApp = (props) => {
-  return <BrowserRouter>
+  return <BrowserRouter basename={process.erv.PUBLIC_URL} >
     <React.StrictMode>
       <Provider store={store}>
         <AppContainer />
